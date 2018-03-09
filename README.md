@@ -11,20 +11,25 @@
 nginx configuration
 
 ```
+server {
+	listen 443 ssl http2 default_server;
+	server_name domain.com;
+
 	location = / {
 		return 301 $scheme://domain.com/dashboard;
 	}
-  
-  # ...other locations here
-  
-  location /dashboard {
-    # assumes you store the build output in a directory here
+
+	# ...other locations here
+
+	location /dashboard {
+		# assumes you store the build output in a directory here
 		alias  /config/www/site;
 		try_files $uri /index.html =404;
 	}
 
-  location /static {
-    alias  /config/www/site/static;
-    try_files $uri /index.html =404;
-  }
+	location /static {
+		alias  /config/www/site/static;
+		try_files $uri /index.html =404;
+	}
+}
 ```
