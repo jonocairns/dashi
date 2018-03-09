@@ -29,7 +29,7 @@ server {
 
 	location /static {
 		alias  /config/www/site/static;
-		try_files $uri /index.html =404;
+		try_files $uri =404;
 	}
 }
 ```
