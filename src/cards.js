@@ -7,12 +7,12 @@ import uptime from './assets/icons/uptime.png';
 const cards = [
     {
         title: "Plex",
-        url: "https://example.com/web/index.html",
+        url: "https://domain.com/web/index.html",
         img: plex
     },
     {
         title: "Request",
-        url: "https://example.com/ombi",
+        url: "https://domain.com/ombi",
         img: request
     }
 ];
