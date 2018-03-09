@@ -1,6 +1,6 @@
 # A simple react dashboard for a home server
 
-![https://imgur.com/nmzKek2](https://imgur.com/nmzKek2)
+![https://i.imgur.com/nmzKek2.png](https://i.imgur.com/nmzKek2.png)
 
 1. yarn install
 2. yarn start
