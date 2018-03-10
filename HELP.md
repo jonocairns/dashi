@@ -3,7 +3,7 @@
 ## Recommended plex quality settings
 
 ### Web browser
-go to settings -> web -> quality -> set video quality to 'maximum' if you have good internet speeds. Check [check](https://fast.com) and make sure you have more than 16mbps. If you do then use the settings below.
+go to settings -> web -> quality -> set video quality to 'maximum' if you have good internet speeds. Check [here](https://fast.com) and make sure you have more than 16mbps. If you do then use the settings below.
 
 ![https://c10.patreonusercontent.com/3/eyJ4Ijo4NDk4MjMwfQ%3D%3D/patreon-posts/reMhvc_kddB1uAIIj4NCS87FQnwhGPezitx8f6fEbIZA5NtUMsviPHF3fEvh3hQN.png?token-time=1521849600&token-hash=EX5PHlk5ZnoGCQ2sYcVAS05zGdXVItHMH3tG73zqpxo%3D](https://c10.patreonusercontent.com/3/eyJ4Ijo4NDk4MjMwfQ%3D%3D/patreon-posts/reMhvc_kddB1uAIIj4NCS87FQnwhGPezitx8f6fEbIZA5NtUMsviPHF3fEvh3hQN.png?token-time=1521849600&token-hash=EX5PHlk5ZnoGCQ2sYcVAS05zGdXVItHMH3tG73zqpxo%3D)
 
