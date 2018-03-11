@@ -1,6 +1,8 @@
 # Help
 
 ## Recommended plex quality settings
+Note: you will need to set this in _every_ device you use plex with (if you reset your phone or use another browser you will need to set it again). Once you set it up for all devices you should be golden.
+
 
 ### Web browser
 go to settings -> web -> quality -> set video quality to 'maximum' if you have good internet speeds. Check [here](https://fast.com) and make sure you have more than 16mbps. If you do then use the settings below.
