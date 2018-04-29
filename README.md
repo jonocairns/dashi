@@ -4,11 +4,12 @@
 
 1. yarn install
 2. yarn start
-3. Add to cards.js any of the links you wish to use.
+3. Add to cards.js any of the links you wish to use. Check localhost:3000 for preview
+4. If you're using a sub directory, add this to package.json `"homepage" : "http://domain.com/subdir"` before you run build
 4. yarn run build
-5. copy build dir to web server
+5. copy the contents of the build dir to web server `/config/www/dashi` for UNRAID docker letsencrypt
 
-nginx configuration
+example nginx configuration
 
 ```
 server {
