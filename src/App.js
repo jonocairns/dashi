@@ -13,7 +13,7 @@ class App extends Component {
                 return <a href={c.url} key={k} target={isMail ? '': '_blank'} className="link"><div className="text-white mb-3 app-card">
                   <div className="p-3 d-flex flex-row align-items-center">
                     <img src={c.img} alt={c.title} className="card-img"/>
-                    <div className="p-3 txt display-4">{c.title}</div>
+                    <div className="ml-1 text-uppercase" style={{fontFamily: 'Oswald, serif', fontSize: 22}}>{c.title}</div>
                   </div>
                 </div></a>
             })}
