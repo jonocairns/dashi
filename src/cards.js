@@ -1,6 +1,7 @@
 import plex from './assets/icons/plex.png';
 import request from './assets/icons/overseerr.png';
-import patreon from './assets/icons/patreon.png'
+import patreon from './assets/icons/patreon.png';
+import sla from './assets/icons/shield.png'
 
 const cards = [
     {
@@ -17,6 +18,11 @@ const cards = [
         title: "Donate",
         url: "https://www.patreon.com/jonosma",
         img: patreon
+    },
+    {
+        title: "Uptime",
+        url: "https://stats.uptimerobot.com/oZkN8t4lA",
+        img: sla
     }
 ];
 
